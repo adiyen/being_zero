@@ -38,6 +38,7 @@
         "type_traits": "cpp",
         "typeinfo": "cpp",
         "ios": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "forward_list": "cpp"
     }
 }
